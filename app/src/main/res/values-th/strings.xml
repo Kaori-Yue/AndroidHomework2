@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidHomework2</string>
+    <string name="email_placeholder">อีเมล</string>
+    <string name="login_btn">ลงชื่อเข้าใช้</string>
+    <string name="password_placeholder">รหัสผ่าน</string>
+    <string name="login_txt">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="register">ยังไม่มีบัญชีผู้ใช้? สมัครเลย</string>
+    <string name="welcome_toast">ยินดีต้อนรับศุ่ My ToDo application!</string>
+</resources>

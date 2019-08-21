@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidHomework2</string>
+
+    <!--   -->
+    <string name="login_txt">Login To Your Account</string>
+    <string name="welcome_toast">Welcome to My ToDo application!</string>
+
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+
+    <string name="login_btn">Login</string>
+    <string name="register">"Don't have an account? Register"</string>
+
+</resources>
